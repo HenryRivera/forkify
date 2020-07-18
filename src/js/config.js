@@ -1,3 +1,3 @@
 // https://api.spoonacular.com/recipes/search
 
-export const key = " "
+export const key = "API-KEY"
