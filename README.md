@@ -1,6 +1,7 @@
 # Forkify
 
-**Forkify** is a web app created in vanilla Javascript that allows users to search for their favorite recipes!
+**Forkify** is a web app created in vanilla Javascript that allows users to search for their favorite recipes! Recipes used in this project are fetched
+using the [spoonacular api](https://spoonacular.com/food-api)
 
 ## Author
 * [Henry Rivera](https://www.linkedin.com/in/henry-rivera/)
